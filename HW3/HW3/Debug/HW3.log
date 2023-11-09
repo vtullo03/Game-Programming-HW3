@@ -1,9 +1,5 @@
-﻿  Entity.cpp
+﻿  main.cpp
 E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\Entity.h(71,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
 E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\Entity.h(72,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
-  main.cpp
-E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\Entity.h(71,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
-E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\Entity.h(72,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
-E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\main.cpp(411,23): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
+E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\HW3\main.cpp(410,23): warning C4018: '<': signed/unsigned mismatch
   HW3.vcxproj -> E:\School Programming\Game Programming Intro\Game-Programming-HW3\HW3\Debug\HW3.exe

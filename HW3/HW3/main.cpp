@@ -49,11 +49,10 @@ VIEWPORT_Y = 0,
 VIEWPORT_WIDTH = WINDOW_WIDTH,
 VIEWPORT_HEIGHT = WINDOW_HEIGHT;
 
-// background color 
-// CHANGE LATER
-const float BG_RED = 0.1922f,
-BG_BLUE = 0.549f,
-BG_GREEN = 0.9059f,
+// background color -- GLOOM HAND COLOR
+const float BG_RED = 0.424f,
+BG_BLUE = 0.102f,
+BG_GREEN = 0.11f,
 BG_OPACITY = 1.0f;
 
 // shaders
